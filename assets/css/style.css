@@ -1,0 +1,88 @@
+/* genéricos */
+.bg-verde {
+    background-color: #28a745;
+}
+
+.bg-white {
+    background-color: #FFF;
+}
+
+.texto-verde {
+    color: #28a745;
+}
+
+.alinear-derecha {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.alinear-centro {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+/* cabecera */
+header img {
+    height: 1.563rem;
+    width: 5.375rem;
+}
+
+/* contenido principal */
+main img {
+    height: 15rem;
+    width: 22.1667rem;
+}
+
+.card-titulo {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.6667rem;
+    color: #212529;
+}
+
+.card-item {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.3333rem;
+    color: #707070;
+}
+
+.card-direccion {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.0833rem;
+    color: #707070;
+}
+
+.card-precio-antiguo {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.3333rem;
+    color: #707070;
+    display: inline-block;
+    padding-top: 6px;
+}
+
+.card-precio-nuevo {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.6667rem;
+    font-weight: bold;
+    display: inline-block;
+    margin-left: 1rem;
+}
+
+.contacto h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.75rem;
+    color: #FFF;
+    font-weight: bold;
+}
+
+/* Pie de página */
+
+footer img {
+    height: 2rem;
+    width: 6.8333rem;
+}
+
+footer p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.3333rem;
+}
